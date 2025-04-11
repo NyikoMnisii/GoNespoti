@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "155688357973",
+    "project_id": "gonespoti-1a20b",
+    "storage_bucket": "gonespoti-1a20b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155688357973:android:239df2e0301b6b21d1c4dc",
+        "android_client_info": {
+          "package_name": "com.example.ridesharing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEk71FEk44KIAwJxe7Kkhi819qIWlO0a4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
